@@ -36,7 +36,7 @@ Além da parte visual, o projeto também foi desenvolvido com foco em responsivi
 
 ## 🌐 Repositório
 
-🔗 https://github.com/beendev21/MeuPortf-lio-
+🔗 https://beendev21.github.io/MeuPortfolioDev/
 
 ---
 
