@@ -26,14 +26,6 @@ Além da parte visual, o projeto também foi desenvolvido com foco em responsivi
 
 ---
 
-## 📷 Preview
-
-<p align="center">
-  <img src="https://ibb.co/Q74ckYL2" alt="Preview do Projeto" width="800"/>
-</p>
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 * HTML5
