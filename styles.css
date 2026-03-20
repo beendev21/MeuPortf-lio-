@@ -913,6 +913,7 @@ h1 {
         width: auto;
         animation: none;
         text-align: center;
+        opacity: 1;
     }
 
     .sobre {
